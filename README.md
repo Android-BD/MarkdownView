@@ -56,7 +56,7 @@ markdownView.showMarkdown(R.raw.markdown_file);
 markdownView.showMarkdown("# Hello Markdown\n\n[fiskurgit](https://github.com/fiskurgit)");
 ```
 
-##Dependency
+## Dependency
 
 Add jitpack.io to your root build.gradle, eg:
 
@@ -81,9 +81,9 @@ You can find the latest version in the releases tab above: https://github.com/fi
 
 More options at jitpack.io: https://jitpack.io/#fiskurgit/MarkdownView
 
-##Licence
+## License
 
-Full licence here: https://github.com/fiskurgit/MarkdownView/blob/master/LICENSE
+Full license here: https://github.com/fiskurgit/MarkdownView/blob/master/LICENSE
 
 In short:
 
